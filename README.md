@@ -17,6 +17,7 @@ the place sellection is from three types (Home , Restaurant or Park).
 8 - press logout button to logout user
 9 - you can create account or use an existing account
 
-![alt text](http://imgs/img1.png)
-
+<p align="center">
+  <img src="imgs/img1.png" width="350" title="hover text">
+</p>
 
