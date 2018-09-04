@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="place_type">
+        <item>select place type</item>
+        <item>Home</item>
+        <item>Restaurant</item>
+        <item>Park</item>
+
+    </string-array>
+
+</resources>
